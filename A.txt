@@ -1,3 +1,1 @@
-deb http://deb.debian.org/debian/ bookworm main contrib non-free
-deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free
-deb http://deb.debian.org/debian-security/ bookworm-security main contrib non-free
+https://prod.liveshare.vsengsaas.visualstudio.com/join?B71E1CD4C2F215E26F8805FDEF8010ACD8F1
